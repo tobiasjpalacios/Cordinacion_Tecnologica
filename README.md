@@ -16,7 +16,7 @@
 <br/><br/>
 ### CSS + Boostrap 4.6 
 * ##### Tutorial de estilo con css  [Ir al Tutorial](https://www.w3schools.com/css/default.asp)
-    	* link extra de youtube: https://www.youtube.com/watch?v=24gNhTcy6pw&list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR
+    	#### link extra de youtube: https://www.youtube.com/watch?v=24gNhTcy6pw&list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR
 * ##### framework Bootstrap 4 [Ir al Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
 	 ##### Bootstrap 4 - Conteiners Conteiners-fluid - link youtube interesante [Ir al tutorial](https://www.youtube.com/watch?v=59pex8k8Xr8)  
 <br/><br/>
